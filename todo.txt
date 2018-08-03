@@ -1,0 +1,3 @@
+- Merging sh.php and sh.py in one web server + command routine
+- Download management
+- Safer ways to upload files
